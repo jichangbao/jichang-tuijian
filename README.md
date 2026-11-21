@@ -18,7 +18,7 @@
 | 6 | **二猫云** | 不限时流量包 | ¥20/月（130GB） | ¥89/年（60GB/月） | 专线 | `ermao888` | [二猫云测评](https://jichangbababa.com/ceping/ermao/) |
 | 7 | **Firefly** | AI 工具友好 | ¥25/月（150GB） | ¥96/年（60GB/月） | IPLC 专线 | `firefly` | [Firefly测评](https://jichangbababa.com/ceping/firefly/) |
 | 8 | **宇宙云** | 大流量套餐 | ¥25/月（160GB） | ¥96/年（60GB/月） | IEPL/IPLC 专线 | `YUZHOU553` | [宇宙云测评](https://jichangbababa.com/ceping/yuzhou/) |
-| 9 | **无忧** | 超低价年付 | ¥19/月（100GB） | ¥79/年（40GB/月） | IPLC 专线 | `wuyou` | [无忧测评](https://jichangbababa.com/ceping/wuyou/) |
+| 9 | **无忧** | 超低价年付 | ¥25/月（160GB） | ¥79/年（50GB/月） | IPLC 专线 | `wuyou` | [无忧测评](https://jichangbababa.com/ceping/wuyou/) |
 | 10 | **光速云** | 速度优先 | ¥23/月（138GB） | ¥99/年（59GB/月） | 专线 | `AMM` | [光速云测评](https://jichangbababa.com/ceping/guangsu/) |
 | 11 | **星岛梦** | 小众高质 | ¥25/月（150GB） | ¥96/年（60GB/月） | IPLC 专线（单节点最高 2.5Gbps） | `nmw888` | [星岛梦测评](https://jichangbababa.com/ceping/xingdaomeng/) |
 | 12 | **唯兔云** | 学生党友好 | ¥19.9/月（150GB） | ¥79.9/年（45GB/月） | IEPL 企业专线 + 备用直连 | `rabbit` | [唯兔云测评](https://jichangbababa.com/ceping/weitu/) |
